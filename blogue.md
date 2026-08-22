@@ -4,7 +4,7 @@ title: "Bloque"
 permalink: /blogue/
 ---
 
-### Voici la page du blog
+### Voici la page du blogue###
 <ul>
   {% for post in site.posts %}
     <li>
