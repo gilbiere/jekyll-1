@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: "welcome to Jekyll!"
 slug: welcome-to-jekyll
 date:  2023-01-11
 ---
