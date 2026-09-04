@@ -7,7 +7,7 @@ Ceci est la page index.md.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+      <a href="{{ site.url }}{{ post.url }}" target="_blank">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
